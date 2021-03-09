@@ -1,0 +1,12 @@
+/home/arigatory/Learn/dotNET/Code/Chapter04/CalculatorLib/bin/Debug/net5.0/CalculatorLib.deps.json
+/home/arigatory/Learn/dotNET/Code/Chapter04/CalculatorLib/bin/Debug/net5.0/CalculatorLib.dll
+/home/arigatory/Learn/dotNET/Code/Chapter04/CalculatorLib/bin/Debug/net5.0/ref/CalculatorLib.dll
+/home/arigatory/Learn/dotNET/Code/Chapter04/CalculatorLib/bin/Debug/net5.0/CalculatorLib.pdb
+/home/arigatory/Learn/dotNET/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/CalculatorLib.csprojAssemblyReference.cache
+/home/arigatory/Learn/dotNET/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/arigatory/Learn/dotNET/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/CalculatorLib.AssemblyInfoInputs.cache
+/home/arigatory/Learn/dotNET/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/CalculatorLib.AssemblyInfo.cs
+/home/arigatory/Learn/dotNET/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/home/arigatory/Learn/dotNET/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/CalculatorLib.dll
+/home/arigatory/Learn/dotNET/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/ref/CalculatorLib.dll
+/home/arigatory/Learn/dotNET/Code/Chapter04/CalculatorLib/obj/Debug/net5.0/CalculatorLib.pdb
